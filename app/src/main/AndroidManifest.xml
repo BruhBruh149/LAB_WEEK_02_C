@@ -27,7 +27,6 @@
             android:name=".SingleTopActivity"
             android:launchMode="singleTop">
         </activity>
-
     </application>
 
 </manifest>
